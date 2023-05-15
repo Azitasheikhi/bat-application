@@ -1,4 +1,4 @@
-# bat-application
+# Image enhancement using Bat Algorithm
 This is a Python script that uses the Bat Algorithm to enhance grayscale images. The Bat Algorithm is an optimization algorithm inspired by the echolocation behavior of bats.
 
 The script will read the noisy.png image and apply the Bat Algorithm to find the best set of parameters for image enhancement. The enhanced image will be displayed using Matplotlib.
